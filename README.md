@@ -55,7 +55,7 @@
 4. Colocar senha válida
 5. Clicar no botão "Entrar"
 
-# RESULTADO ESPERADO: Usuario acessar o sistema de delivery
+RESULTADO ESPERADO: Usuario acessar o sistema de delivery
 
 # TESTE DO MOVIMENTO DE ENTREGA 
 # TESTE: Será testado o movimento de entrega
@@ -64,4 +64,4 @@
 3. Verificar a atualização de tempo atual
 4. Ver onde o motoboy está com sua comida no momento 
 
-# RESULTADO ESPERADO: Ver onde o motoboy está com a comida
+RESULTADO ESPERADO: Ver onde o motoboy está com a comida
