@@ -48,5 +48,20 @@
 7. O sistema deve estar disponível em dispositivos móveis e desktop
 
 # TESTE DO CADASTRO DE USUÁRIOS 
+# TESTE: Será testado o cadastro de usuarios 
+1. Na tela de cadastro, acessar o login
+2. Colocar nome válido
+3. Colocar email e telefone válido
+4. Colocar senha válida
+5. Clicar no botão "Entrar"
+
+# RESULTADO ESPERADO: Usuario acessar o sistema de delivery
 
 # TESTE DO MOVIMENTO DE ENTREGA 
+# TESTE: Será testado o movimento de entrega
+1. Acessar a página de entrega
+2. Clicar no mapa para ver localização da entrega
+3. Verificar a atualização de tempo atual
+4. Ver onde o motoboy está com sua comida no momento 
+
+# RESULTADO ESPERADO: Ver onde o motoboy está com a comida
